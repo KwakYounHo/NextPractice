@@ -1,7 +1,7 @@
 import type { Metadata } from 'next'
 
 interface Params {
-  [keys: string]: number
+  id: number
 }
 export default function ReadOne({ params }: { params: Params }) {
   return (
