@@ -1,7 +1,7 @@
 export default function Create() {
   return (
     <>
-      <h2>Hello i'm Create Page</h2>
+      <h2>Hello i&apos;m Create Page</h2>
     </>
   )
 }

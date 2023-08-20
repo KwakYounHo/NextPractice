@@ -4,7 +4,7 @@ export default function Layout( {children }: { children: React.ReactNode }) {
   return (
     <form>
       <h2>Creating Something</h2>
-      i'm creating
+      i&apos;m creating
       { children }
     </form>
   )
